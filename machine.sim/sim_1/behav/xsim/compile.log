@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paula/SOC/tema1/project_3.srcs/sim_1/new/vending_machine.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vending_machine
+WARNING: [VRFC 10-8497] literal value 'b100 truncated to fit in 2 bits [/home/paula/SOC/tema1/project_3.srcs/sim_1/new/vending_machine.v:14]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paula/SOC/tema1/project_3.srcs/sim_1/new/tb_vending_machine.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_vending_machine
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paula/SOC/tema1/project_3.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

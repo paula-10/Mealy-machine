@@ -1,0 +1,26 @@
+Time resolution is 1 ps
+Time: 0, State: 00, Coin: 00, Request Product: 0, Request Change: 0, Dispense Product: 0, Dispense Change: 00, Total Money:  0
+Time: 20, State: 00, Coin: 11, Request Product: 0, Request Change: 0, Dispense Product: 0, Dispense Change: 00, Total Money:  0
+Time: 25, State: 01, Coin: 11, Request Product: 0, Request Change: 0, Dispense Product: 0, Dispense Change: 00, Total Money: 10
+Time: 30, State: 01, Coin: 00, Request Product: 0, Request Change: 0, Dispense Product: 0, Dispense Change: 00, Total Money: 10
+Time: 35, State: 00, Coin: 00, Request Product: 0, Request Change: 0, Dispense Product: 0, Dispense Change: 00, Total Money: 10
+Time: 40, State: 00, Coin: 00, Request Product: 1, Request Change: 0, Dispense Product: 0, Dispense Change: 00, Total Money:  7
+Time: 45, State: 10, Coin: 00, Request Product: 1, Request Change: 0, Dispense Product: 1, Dispense Change: 00, Total Money:  7
+Time: 50, State: 10, Coin: 00, Request Product: 0, Request Change: 0, Dispense Product: 1, Dispense Change: 00, Total Money:  7
+Time: 55, State: 00, Coin: 00, Request Product: 0, Request Change: 0, Dispense Product: 0, Dispense Change: 00, Total Money:  7
+Time: 60, State: 00, Coin: 00, Request Product: 1, Request Change: 0, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 65, State: 10, Coin: 00, Request Product: 1, Request Change: 0, Dispense Product: 1, Dispense Change: 00, Total Money:  4
+Time: 70, State: 10, Coin: 00, Request Product: 0, Request Change: 0, Dispense Product: 1, Dispense Change: 00, Total Money:  4
+Time: 75, State: 00, Coin: 00, Request Product: 0, Request Change: 0, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 80, State: 00, Coin: 00, Request Product: 0, Request Change: 1, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 85, State: 11, Coin: 00, Request Product: 0, Request Change: 1, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 95, State: 00, Coin: 00, Request Product: 0, Request Change: 1, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 105, State: 11, Coin: 00, Request Product: 0, Request Change: 1, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 115, State: 00, Coin: 00, Request Product: 0, Request Change: 1, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 125, State: 11, Coin: 00, Request Product: 0, Request Change: 1, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 135, State: 00, Coin: 00, Request Product: 0, Request Change: 1, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 145, State: 11, Coin: 00, Request Product: 0, Request Change: 1, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 155, State: 00, Coin: 00, Request Product: 0, Request Change: 1, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 165, State: 11, Coin: 00, Request Product: 0, Request Change: 1, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+Time: 175, State: 00, Coin: 00, Request Product: 0, Request Change: 1, Dispense Product: 0, Dispense Change: 00, Total Money:  4
+$finish called at time : 180 ns : File "/home/paula/SOC/tema1/project_3.srcs/sim_1/new/tb_vending_machine.v" Line 77
